@@ -1,0 +1,1 @@
+body{margin:0}.menu{font-size:2em;position:fixed;z-index:9999;top:20px;background-color:#fff}.opa{opacity:.1}.opa:hover{opacity:1}.menu:not(.r){left:20px}.menu.r{right:20px}#about{white-space:pre-line;padding:5px;border:1px solid red}
